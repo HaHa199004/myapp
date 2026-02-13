@@ -1,0 +1,8 @@
+{
+  "appId": "com.myapp.app",
+  "appName": "多功能APP",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
